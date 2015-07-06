@@ -1,0 +1,27 @@
+{
+  "name": "kochou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdemon/kochou.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdemon/kochou/issues"
+  },
+  "homepage": "https://github.com/hdemon/kochou#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.0.1",
+    "gulp-typescript": "^2.7.8",
+    "gulp-uglify": "^1.2.0",
+    "gulp-watch": "^4.2.4"
+  }
+}
